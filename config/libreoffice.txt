@@ -1,0 +1,7 @@
+# LibreOffice install folder (one line). Example:
+# D:\LibreOffice
+#
+# Or full path to soffice.exe:
+# D:\LibreOffice\program\soffice.exe
+
+D:\LibreOffice
